@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Author: Pengg
+# Author: Oliver
 # Description: Build the golang project.
 
 basedir=$(cd `dirname $0`;pwd)
